@@ -1,0 +1,14 @@
+D:\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.csprojAssemblyReference.cache
+D:\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.csproj.CoreCompileInputs.cache
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.DataContext.dll
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.DataContext.pdb
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.dll
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.xml
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.csproj.CopyComplete
+D:\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.dll
+D:\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.pdb
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.Model.dll
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.Model.pdb
+D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.DataContext.dll.config

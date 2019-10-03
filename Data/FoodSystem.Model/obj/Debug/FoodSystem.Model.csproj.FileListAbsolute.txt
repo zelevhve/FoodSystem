@@ -1,0 +1,6 @@
+D:\FoodSystem\Data\FoodSystem.Model\bin\Debug\FoodSystem.Model.dll
+D:\FoodSystem\Data\FoodSystem.Model\bin\Debug\FoodSystem.Model.pdb
+D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.csprojAssemblyReference.cache
+D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.csproj.CoreCompileInputs.cache
+D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.dll
+D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.pdb
