@@ -52,7 +52,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ClienteData.cs" />
+    <Compile Include="ComidaData.cs" />
+    <Compile Include="ComprobanteData.cs" />
+    <Compile Include="DataBase.cs" />
     <Compile Include="EFDataContextEntryPoint.cs" />
+    <Compile Include="PedidoData.cs" />
+    <Compile Include="PedidoItemData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UsuarioConfiguration.cs" />
     <Compile Include="UsuarioContext.cs" />

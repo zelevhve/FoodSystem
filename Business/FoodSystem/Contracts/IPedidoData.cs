@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace FoodSystem.Contracts
 {
-    public interface IUsuarioData : IDataBase<Model.Usuario>
+    public interface IPedidoData
     {
-        
     }
 }

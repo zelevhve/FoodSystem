@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace FoodSystem.UI
 {
@@ -12,8 +13,19 @@ namespace FoodSystem.UI
         public void GetData()
         {
             Business.UsuarioBusiness business = Resolve<Business.UsuarioBusiness>();
-            List<Model.Usuario> Usuario = business.GetAll();
+            
+            business.Save(new Model.Usuario {
+                Code = "10000101",
+                UserName = "Darth Vader"
+            });
 
+            List<Model.Usuario> Usuarios = business.GetAll();
+            var selected = Usuarios.FirstOrDefault();
+            selected.UserName = "Han Solo";
+            business.Save(selected);
+            Usuarios = business.GetAll();
+            business.Delete(selected);
+            Usuarios = business.GetAll();
         }
     }
 }

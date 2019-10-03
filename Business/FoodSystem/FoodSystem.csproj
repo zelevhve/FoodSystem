@@ -40,10 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\ClienteBusiness.cs" />
     <Compile Include="Business\UsuarioBusiness.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Contracts\IClienteData.cs" />
+    <Compile Include="Contracts\IComidaData.cs" />
+    <Compile Include="Contracts\IComprobanteData.cs" />
+    <Compile Include="Contracts\IDataBase.cs" />
+    <Compile Include="Contracts\IPedidoData.cs" />
+    <Compile Include="Contracts\IPedidoDataItemData.cs" />
     <Compile Include="Contracts\IUsuariosData.cs" />
     <Compile Include="FoodSystemEntryPoint.cs" />
+    <Compile Include="Model\Cliente.cs" />
+    <Compile Include="Model\Comida.cs" />
+    <Compile Include="Model\Comprobante.cs" />
+    <Compile Include="Model\Pedido.cs" />
+    <Compile Include="Model\PedidoItem.cs" />
     <Compile Include="Model\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -2,3 +2,4 @@ C:\GitHupFree\FoodSystem\Business\FoodSystem\bin\Debug\FoodSystem.dll
 C:\GitHupFree\FoodSystem\Business\FoodSystem\bin\Debug\FoodSystem.pdb
 C:\GitHupFree\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.dll
 C:\GitHupFree\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.pdb
+C:\GitHupFree\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.csprojResolveAssemblyReference.cache

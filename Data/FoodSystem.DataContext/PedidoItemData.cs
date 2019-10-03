@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FoodSystem.Contracts
+namespace FoodSystem.DataContext
 {
-    public interface IUsuarioData : IDataBase<Model.Usuario>
+    public class PedidoItemData : Contracts.IPedidoDataItemData
     {
-        
     }
 }
