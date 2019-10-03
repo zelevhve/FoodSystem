@@ -1,0 +1,1 @@
+C:\GitHupFree\FoodSystem\FoodSystem\FoodSystem.Console\bin\Debug\FoodSystem.Console.exe.config
