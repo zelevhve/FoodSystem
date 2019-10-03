@@ -65,16 +65,16 @@
     <Compile Include="Comprobante.Designer.cs">
       <DependentUpon>Comprobante.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Pedido.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Pedido.Designer.cs">
+      <DependentUpon>Pedido.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Pedido.resx">
+      <DependentUpon>Pedido.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -107,10 +107,6 @@
     <ProjectReference Include="..\..\Data\FoodSystem.DataContext\FoodSystem.DataContext.csproj">
       <Project>{9894f346-447c-42bd-9aaa-cfe828b7c1f6}</Project>
       <Name>FoodSystem.DataContext</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Data\FoodSystem.Model\FoodSystem.Model.csproj">
-      <Project>{2a583c3f-0406-4ee9-82d7-2b02999b99c8}</Project>
-      <Name>FoodSystem.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

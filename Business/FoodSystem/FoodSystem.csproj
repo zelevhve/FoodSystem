@@ -44,17 +44,8 @@
     <Compile Include="Business\UsuarioBusiness.cs" />
     <Compile Include="Contracts\IUsuariosData.cs" />
     <Compile Include="FoodSystemEntryPoint.cs" />
+    <Compile Include="Model\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Data\FoodSystem.DataContext\FoodSystem.DataContext.csproj">
-      <Project>{9894f346-447c-42bd-9aaa-cfe828b7c1f6}</Project>
-      <Name>FoodSystem.DataContext</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Data\FoodSystem.Model\FoodSystem.Model.csproj">
-      <Project>{2a583c3f-0406-4ee9-82d7-2b02999b99c8}</Project>
-      <Name>FoodSystem.Model</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

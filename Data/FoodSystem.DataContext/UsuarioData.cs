@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FoodSystem.DataContext
 {
-    public class UsuarioData 
+    public class UsuarioData : Contracts.IUsuarioData
     {
         public List<Model.Usuario> GetAll()
         {
-            using (UsuariosContext db = new UsuariosContext())
+            using (UsuarioContext db = new UsuarioContext())
             {
                 return db.Usuario.ToList();
             }

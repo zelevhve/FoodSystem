@@ -12,3 +12,9 @@ D:\FoodSystem\Business\FoodSystem\bin\Debug\FoodSystem.Model.pdb
 D:\FoodSystem\Business\FoodSystem\bin\Debug\EntityFramework.xml
 D:\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.csproj.CopyComplete
 D:\FoodSystem\Business\FoodSystem\bin\Debug\FoodSystem.DataContext.dll.config
+C:\GitHupFree\FoodSystem\Business\FoodSystem\bin\Debug\FoodSystem.dll
+C:\GitHupFree\FoodSystem\Business\FoodSystem\bin\Debug\FoodSystem.pdb
+C:\GitHupFree\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.csprojAssemblyReference.cache
+C:\GitHupFree\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.csproj.CoreCompileInputs.cache
+C:\GitHupFree\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.dll
+C:\GitHupFree\FoodSystem\Business\FoodSystem\obj\Debug\FoodSystem.pdb

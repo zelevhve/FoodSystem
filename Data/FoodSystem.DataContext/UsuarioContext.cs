@@ -2,15 +2,17 @@
 
 namespace FoodSystem.DataContext
 {
-    public class UsuariosContext : DbContext
+    public class UsuarioContext : DbContext
     {
-        public UsuariosContext():base(@"Data Source=.\sql2017; Initial Catalog=FoodSystem;user id=SadSupport;password=AP$br1.0")
+        public UsuarioContext():base(@"Data Source=.\sql2017; Initial Catalog=FoodSystem;user id=SadSupport;password=AP$br1.0")
         {
-
+            
         }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
+            modelBuilder.Configurations.Add(new UsuarioConfiguration());
+            modelBuilder.Entity<Model.Usuario>().ToTable("Usuario");
+            
         }
         public DbSet<Model.Usuario> Usuario { get; set; }
     }

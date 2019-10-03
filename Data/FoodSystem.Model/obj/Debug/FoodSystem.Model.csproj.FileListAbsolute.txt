@@ -4,3 +4,9 @@ D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.csprojAssemblyRef
 D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.csproj.CoreCompileInputs.cache
 D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.dll
 D:\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.pdb
+C:\GitHupFree\FoodSystem\Data\FoodSystem.Model\bin\Debug\FoodSystem.Model.dll
+C:\GitHupFree\FoodSystem\Data\FoodSystem.Model\bin\Debug\FoodSystem.Model.pdb
+C:\GitHupFree\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.csprojAssemblyReference.cache
+C:\GitHupFree\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.csproj.CoreCompileInputs.cache
+C:\GitHupFree\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.dll
+C:\GitHupFree\FoodSystem\Data\FoodSystem.Model\obj\Debug\FoodSystem.Model.pdb

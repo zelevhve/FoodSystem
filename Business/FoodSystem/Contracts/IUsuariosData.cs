@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FoodSystem.Contracts
 {
-    public interface IUsuariosData
+    public interface IUsuarioData
     {
         List<Model.Usuario> GetAll();
     }

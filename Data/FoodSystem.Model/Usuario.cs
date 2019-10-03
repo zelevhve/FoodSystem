@@ -4,8 +4,8 @@ namespace FoodSystem.Model
 {
     public class Usuario
     {
-        public int Id { get; set; }
+        public int UsuarioId { get; set; }
         public string Code { get; set; }
-        public string Name { get; set; }
+        public string UserName { get; set; }
     }
 }

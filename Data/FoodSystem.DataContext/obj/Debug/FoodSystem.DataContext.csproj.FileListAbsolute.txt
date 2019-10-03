@@ -12,3 +12,17 @@ D:\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.pdb
 D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.Model.dll
 D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.Model.pdb
 D:\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.DataContext.dll.config
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.DataContext.dll.config
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.DataContext.dll
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.DataContext.pdb
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.dll
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.xml
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.csprojAssemblyReference.cache
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.csproj.CoreCompileInputs.cache
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.csproj.CopyComplete
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.dll
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\obj\Debug\FoodSystem.DataContext.pdb
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.dll
+C:\GitHupFree\FoodSystem\Data\FoodSystem.DataContext\bin\Debug\FoodSystem.pdb
