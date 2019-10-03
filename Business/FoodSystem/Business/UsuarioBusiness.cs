@@ -8,7 +8,9 @@ namespace FoodSystem.Business
         private Contracts.IUsuarioData _usuarioData;
         public UsuarioBusiness(Contracts.IUsuarioData usuarioData)
         {
-            _usuarioData = usuarioData ?? throw new ArgumentNullException("IUsuarioData");
+            if (usuarioData == null)
+                throw new ArgumentNullException("IUsuarioData");
+            _usuarioData = usuarioData;
         }
         public List<Model.Usuario> GetAll()
         {
