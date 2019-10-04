@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodSystem", "..\Business\F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodSystem.UI", "..\Views\FoodSystem.UI\FoodSystem.UI.csproj", "{A7ABA6AF-B8A8-4290-8A82-FD5626C9837F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodSystem.Console", "..\Views\FoodSystem.Console\FoodSystem.Console.csproj", "{EB9CA3C6-BCAC-4F13-AD65-1DC4A580F26C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{C63CC6DC-0690-4FF0-A679-D92F316F9F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +31,16 @@ Global
 		{A7ABA6AF-B8A8-4290-8A82-FD5626C9837F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7ABA6AF-B8A8-4290-8A82-FD5626C9837F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7ABA6AF-B8A8-4290-8A82-FD5626C9837F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9CA3C6-BCAC-4F13-AD65-1DC4A580F26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9CA3C6-BCAC-4F13-AD65-1DC4A580F26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9CA3C6-BCAC-4F13-AD65-1DC4A580F26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9CA3C6-BCAC-4F13-AD65-1DC4A580F26C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7ABA6AF-B8A8-4290-8A82-FD5626C9837F} = {C63CC6DC-0690-4FF0-A679-D92F316F9F08}
+		{EB9CA3C6-BCAC-4F13-AD65-1DC4A580F26C} = {C63CC6DC-0690-4FF0-A679-D92F316F9F08}
 	EndGlobalSection
 EndGlobal

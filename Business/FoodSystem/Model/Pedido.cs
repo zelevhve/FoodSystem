@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FoodSystem.Model
 {
-   public  class Pedido
+    public class Pedido
     {
         public int PedidoId { get; set; }
         public Usuario Usuario { get; set; }
@@ -15,9 +15,9 @@ namespace FoodSystem.Model
         public PedidoStatus Estado { get; set; }
         public List<PedidoItem> PedidoItem { get; set; }
     }
-    public enum PedidoStatus {
-        EnCola,
+    public enum PedidoStatus
+    {
         Procesando,
-        Entregado
+        Listo
     }
 }

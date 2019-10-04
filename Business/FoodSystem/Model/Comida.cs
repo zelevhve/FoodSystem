@@ -9,6 +9,10 @@ namespace FoodSystem.Model
         public decimal Precio { get; set; }
         public string Receta { get; set; }
         public ComidaStatus Status { get; set; }
+        public override string ToString()
+        {
+            return $"{Nombre} - {Precio}"; 
+        }
     }
     public enum ComidaStatus
     {
